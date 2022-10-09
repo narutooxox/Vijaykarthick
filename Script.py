@@ -4,7 +4,7 @@ class script(object):
 ɪ ᴀᴍ ᴀ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ + ᴍᴏᴠɪᴇ sᴇᴀʀᴄʜ + ᴍᴀɴᴜᴀʟ ꜰɪʟᴛᴇʀ ʙᴏᴛ. ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ʏᴏᴜ ᴄᴀɴ sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇs ᴠɪᴀ ɪɴʟɪɴᴇ. ɪ ᴄᴀɴ ᴀʟsᴏ ᴀᴅᴅ ꜰɪʟᴛᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ😌"""
     HELP_TXT = """Hey {}
 Here Is The Help For MY Commands."""
-    ABOUT_TXT = """<b><i>🤖 ʙᴏᴛ ɴᴀᴍᴇ: <a href=https://t.me/Silksumetha_bot><b>sɪʟᴋ sᴜᴍᴇᴛʜᴀ</b></a>\n
+    ABOUT_TXT = """<b><i>🤖 ʙᴏᴛ ɴᴀᴍᴇ: <a href=https://t.me/SilkSumethaBot><b>sɪʟᴋ sᴜᴍᴇᴛʜᴀ</b></a>\n
     
 📝 ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org><b>ᴘʏᴛʜᴏɴ</b></a>\n
 
